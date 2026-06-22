@@ -1,4 +1,3 @@
-
 # 📊 Play Store → Looker Studio Sync
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Enabled-blue)
@@ -81,9 +80,17 @@ Ce projet permet de synchroniser automatiquement les rapports de la **Google Pla
 
 ---
 
+### 🔹 Interface supplémentaire
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00e9cb80-ea28-44e0-a6ae-108323144d66" width="900">
+</p>
+
+---
+
 ## ⚙️ Architecture du projet
 
-```text id="arch1"
+```text
 Play Console
    ↓
 Google Cloud Storage
