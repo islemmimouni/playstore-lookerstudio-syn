@@ -40,7 +40,7 @@ Ce projet permet de synchroniser automatiquement les rapports de la **Google Pla
 
 ---
 
-### 🔹 Pipeline de données
+### 🔹 Analyse des abonnements
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a6b31ff3-1506-4882-b040-775c8a26f452" width="900">
